@@ -5,7 +5,7 @@
 This is **not official** [DeepL](https://deepl.com) translator iOS app written in Swift.
 
 <p align="center">
-<img src="https://github.com/podkovyrin/DeepL-iOS/raw/master/_assets/deepl_main_screen.png?raw=true" alt="DeepL iOS Screenshot">
+<img src="https://github.com/podkovyrin/DeepL-iOS/raw/master/_assets/deepl_main_screen.png?raw=true" alt="DeepL iOS Screenshot" height="320">
 </p>
 
 ## Features
